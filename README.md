@@ -1,5 +1,3 @@
-# data_analytics-
-A collection of business data analyses using Python for data cleaning, exploration, and insight generation.
 ## Loan Default Probability Analysis
 
 This project focuses on using data analytics and machine learning to assess the likelihood of loan default. The analysis supports better credit risk management by translating borrower and loan data into actionable insights for lending decisions.
